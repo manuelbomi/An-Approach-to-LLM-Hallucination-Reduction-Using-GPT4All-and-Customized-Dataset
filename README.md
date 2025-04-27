@@ -58,22 +58,18 @@ Explore and download models
 ![Image](https://github.com/user-attachments/assets/0196a8fe-d463-4665-8eab-214ef188bf18)
 
 ---
-In this discourse, llama 3.2 b selected due to its low RAM (memory) use
-You may also choose remote providers
-You can also browse for and choose models from Huggingface
-Installed models will be under existing model
+You can also check under remote providers. 
 
 ![Image](https://github.com/user-attachments/assets/6718147c-06f8-4f94-b17a-dc9b9a160f2d)
 
 ---
-Go into chat
+You can also browse for models on Huggingface and download
+
 
 ![Image](https://github.com/user-attachments/assets/29a2f9d3-4576-4158-ba3f-6f5665c965b0)
 
 ---
-12 c result retuend with references
-12 go to local docs and select the Hertz docs repo
-12 select an installed model and chat
+
 
 ![Image](https://github.com/user-attachments/assets/aa34c6ba-5bfa-47ed-a0c6-509d9b72b2e9)
 ![Image](https://github.com/user-attachments/assets/69a76dbc-3a4a-4933-bddb-e0549569d66f)
