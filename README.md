@@ -71,15 +71,20 @@ You can also browse for models on Huggingface and download
 ---
 
 You can now download under installed models and select the model that you desire.
+
 ![Image](https://github.com/user-attachments/assets/aa34c6ba-5bfa-47ed-a0c6-509d9b72b2e9)
+
 ---
 ![Image](https://github.com/user-attachments/assets/69a76dbc-3a4a-4933-bddb-e0549569d66f)
 
 ---
+
 Link the model to Local docs (Hertz docs in our case)
+
 ![Image](https://github.com/user-attachments/assets/1fe7e5d1-7444-44de-8252-af42749a2825)
 
 ---
+
 load model and chat
 
 ![Image](https://github.com/user-attachments/assets/92896a90-98b4-4cfa-a515-f8243cc33720)
