@@ -92,7 +92,7 @@ Load model and chat
 
 ---
 
-The model will suggest follow up questions
+Input the queries (questiosn). Model will provide answers. The model will also suggest follow up questions.
 
 ![Image](https://github.com/user-attachments/assets/4da427f5-45e4-4796-a3d0-df8bdc14e38d)
 
