@@ -21,31 +21,36 @@ Select folder and create collection
 ![Image](https://github.com/user-attachments/assets/67c01372-6b8a-4307-ae1f-f3fba555d562)
 ---
 
-GPT4All will index the files. It may take some time depending on the your data volume. 
+ 
 
 ![Image](https://github.com/user-attachments/assets/c72a9d87-de7f-415d-a34f-22bde1c47a11)
 
 ---
-GPT4All will turn your document into a vector embedding. That will also take some time based on your file volume.
+GPT4All will index the files. It may take some time depending on the your data volume.
+
 
 ![Image](https://github.com/user-attachments/assets/e9f082fd-21f2-4f1e-8069-484947537272)
 
 ---
-You must add LLMs (models) to your GPT4All if this is your first time of use. Go to models. Add model.
+GPT4All will turn your document into a vector embedding. That will also take some time based on your file volume.
+
 
 ![Image](https://github.com/user-attachments/assets/5e762afe-cd0a-4b12-a1f2-3a354850fed7)
 
 ---
-Explore and download models
+You must add LLMs (models) to your GPT4All if this is your first time of use. Go to models. Add model.
+
 
 ![Image](https://github.com/user-attachments/assets/762cb382-6c25-4f7e-83b3-4b63b90d0b5b)
 
 ---
-In this discourse, llama 3.2 b selected due to its low RAM (memory) use
+Explore and download models
+
 
 ![Image](https://github.com/user-attachments/assets/b93ff91e-78cc-48e2-92c2-5716a1e26502)
 
 ---
+In this discourse, llama 3.2 b selected due to its low RAM (memory) use
 You may also choose remote providers
 
 ![Image](https://github.com/user-attachments/assets/65a1c0d4-5e42-4cba-af4b-933b87c4fe62)
