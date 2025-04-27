@@ -4,6 +4,8 @@
 ### **OVERVIEW**
 In this discourse, we show how GPT4All can be installed on a person computer and how models can be used along with selected dataset in order to reduce the model's hallucination and thus improve on the model's reponse to queries. 
 
+Hertz Holdings Inc publicly available datasets (available here:  are used for a case study
+
 ---
 
 
