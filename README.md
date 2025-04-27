@@ -105,7 +105,7 @@ Input the queries (questiosn). Model will provide answers. The model will also s
 ![Image](https://github.com/user-attachments/assets/2c49ec1b-c0f9-4609-a7aa-5571b5376eba)
 
 ---
-
+The model will suggest follow-up questions.
 ![Image](https://github.com/user-attachments/assets/233d1367-d668-4393-a595-f03b68c95c60)
 
 
