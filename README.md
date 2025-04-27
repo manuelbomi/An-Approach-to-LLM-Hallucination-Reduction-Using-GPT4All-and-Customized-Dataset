@@ -98,9 +98,13 @@ Input the queries (questiosn). Model will provide answers. The model will also s
 
 ---
 
-The model will suggest follow up questions
+
 ![Image](https://github.com/user-attachments/assets/7b18e4f2-3511-46c9-9dfb-0041cb1e9c7e)
+
+---
 ![Image](https://github.com/user-attachments/assets/2c49ec1b-c0f9-4609-a7aa-5571b5376eba)
+
+---
 
 ![Image](https://github.com/user-attachments/assets/233d1367-d668-4393-a595-f03b68c95c60)
 
