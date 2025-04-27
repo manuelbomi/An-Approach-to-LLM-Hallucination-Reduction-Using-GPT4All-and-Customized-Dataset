@@ -50,17 +50,17 @@ Explore and download models
 ![Image](https://github.com/user-attachments/assets/b93ff91e-78cc-48e2-92c2-5716a1e26502)
 
 ---
-In this discourse, llama 3.2 b selected due to its low RAM (memory) use
-You may also choose remote providers
 
 ![Image](https://github.com/user-attachments/assets/65a1c0d4-5e42-4cba-af4b-933b87c4fe62)
 
 ---
-You can also browse for and choose models from Huggingface
 
 ![Image](https://github.com/user-attachments/assets/0196a8fe-d463-4665-8eab-214ef188bf18)
 
 ---
+In this discourse, llama 3.2 b selected due to its low RAM (memory) use
+You may also choose remote providers
+You can also browse for and choose models from Huggingface
 Installed models will be under existing model
 
 ![Image](https://github.com/user-attachments/assets/6718147c-06f8-4f94-b17a-dc9b9a160f2d)
@@ -108,7 +108,7 @@ Thank you for reading through
 Author's Background
 
 ```
-> [!NOTE]
+
 Author's Name:  Emmanuel Oyekanlu
 Skillset:   I have experience spanning several years in developing scalable enterprise data pipelines, architecting enterprise data solutions, deep learning and LLM applications as well as deploying solutions (apps) on-prem and in the cloud. I can be reached through: manuelbomi@yahoo.com
 Website:  http://emmanueloyekanlu.com/
@@ -120,14 +120,5 @@ Github:  https://github.com/manuelbomi
 
 [![Icons](https://skillicons.dev/icons?i=aws,azure,gcp,scala,mongodb,redis,cassandra,kafka,anaconda,matlab,nodejs,django,py,c,anaconda,git,github,mysql,docker,kubernetes&theme=dark)](https://skillicons.dev)
 
-
-
-
-
-> [!TIP]
-> Here, the projects can be intergrated onto a pre-existing webpage in form of a widget. Fro  the widget, it can be used by a customer or staff in form of the company's intranet. Upon a query, it 
-
-> [!CAUTION]
-> To use as a widget in a pre-existing webpage, permissions must be given from the App's Vertex AI page for the pre-existing webpage to access the App whenever a user input queries to the App's prompt. 
 
 
