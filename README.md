@@ -18,7 +18,7 @@ GPT4All is a ...........
 1 add documents
 
 ---
-![Image](https://github.com/user-attachments/assets/233d1367-d668-4393-a595-f03b68c95c60)
+
 2 select folder create collection
 ---
 ![Image](https://github.com/user-attachments/assets/67c01372-6b8a-4307-ae1f-f3fba555d562)
@@ -67,7 +67,7 @@ GPT4All is a ...........
 ![Image](https://github.com/user-attachments/assets/7b18e4f2-3511-46c9-9dfb-0041cb1e9c7e)
 ![Image](https://github.com/user-attachments/assets/2c49ec1b-c0f9-4609-a7aa-5571b5376eba)
 
-
+![Image](https://github.com/user-attachments/assets/233d1367-d668-4393-a595-f03b68c95c60)
 
 ---
 
