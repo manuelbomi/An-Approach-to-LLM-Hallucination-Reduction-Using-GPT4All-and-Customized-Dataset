@@ -1,4 +1,4 @@
-# An-Approach-to-LLM-Hallucination-Reduction-Using-GPT4All-and-Customized-Dataset
+# An Approach to LLM Hallucination Reduction using GPT4All and Customized Dataset
 
 
 ### **OVERVIEW**
