@@ -9,7 +9,7 @@ As an illustrative example, Hertz Global Holdings Inc. publicly available datase
 ---
 
 ### **Background Discussion**
-GPT4All is a free, open-source ecosystem that allows users to run large language models (LLMs) locally on their own computers, without needing an internet connection or a powerful GPU. It provides a platform for interacting with LLMs through a chat interface and also supports using local documents as information sources. GPT4All is open-source, meaning the code is freely available for anyone to use, modify, and contribute to. It is also completely free to use, with no licensing fees or subscriptions required. 
+GPT4All is a free, open-source ecosystem that allows users to run large language models (LLMs) locally on their own computers, without needing an internet connection or a powerful GPU. It provides a platform for interacting with LLMs through a chat interface and also supports using local documents as information sources. GPT4All is open-source, meaning the code is freely available for anyone to use, modify, and contribute to. It is also completely free to use, with no licensing fees or subscriptions required.
 
 ---
 To start using GPT4All to improve LLM's response to queries, install it and after installation, open it and use it to upload a high quality dataset that you intend to use as part of the database for your LLM
